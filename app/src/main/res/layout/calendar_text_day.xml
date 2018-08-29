@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.software.wen.customcalendardemo.CalendarItemTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="48dp"
+    android:layout_height="68dp"
+    android:textSize="15sp"
+    android:gravity="center"
+    android:id="@+id/tv_calendar_day">
+</com.software.wen.customcalendardemo.CalendarItemTextView>
